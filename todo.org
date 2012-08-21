@@ -13,6 +13,7 @@
 * mobile site
 * make overlay as absolute and give scroll for the window
 *Janis and Ramya need to develop pacman game!
+*Decide on games to be created
   
 * Design stuff
 ** change the propeller in the airplane
